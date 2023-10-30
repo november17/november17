@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning pinescript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 n@n0v.pw
 
 <!---
 november17/november17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
