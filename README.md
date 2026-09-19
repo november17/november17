@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @november17 / marco rico
-- 👀 I’m interested in music and videos
+- 👋 Hi, I’m @november17 
+- 👀 I’m interested in music, videos, and languages
 - 🌱 I’m currently learning pipewire modules
+- 🌱 I'm working on my repositories
 - 💞️ I’m looking to collaborate on whatever
 - 📫 n@gma99.com
 
