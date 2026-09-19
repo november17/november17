@@ -15,10 +15,10 @@ Sometimes I just map another MIDI button via WebSockets because clicking a mouse
 ### 🛠️ Currently Building
 
 * **🎬 Local Video & Audio Transcription:** Native Linux toolchains for automated processing.
-* **🎤 Lyrics & Subtitle Factory:** Processing multilingual translations, regional slang, and native dialects into clean `.srt` files.
+* **🎤 [Lyrics & Subtitle Factory](https://github.com/november17/local-subtitle-factory):** Processing multilingual translations, regional slang, and native dialects into clean `.srt` files.
 * **🎹 OBS WebSocket & MIDI Routers:** Python scripts mapping hardware controllers to stream scenes and audio feeds on the fly.
 * **📚 MediaWiki Music Indexing:** Custom infobox templates and Python scripts for auto-cataloging releases and studio archives.
-* **🐧 Linux Audio Pipeline Scripts:** Carla plugins, Kdenlive batch renderers, and low-latency PipeWire setups on Ubuntu.
+* **🐧 Linux Audio Pipeline Scripts:** Carla plugins, Kdenlive batch renderers, and low-latency [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire) setups on Ubuntu.
 * **🦾 ARM Linux Experiments:** Installing ARM Linux on things that were **absolutely** not designed to run ARM Linux.
 
 ### 🧰 Things I Like Breaking
