@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @november17 
 - 👀 I’m interested in music, videos, and languages
-- 🌱 I’m currently learning pipewire modules
-- 🌱 I'm working on my repositories
+- 🌱 I’m currently learning pipewire modules 
+- 🌱 I'm working on [Local Subtitle Factory](https://github.com/november17/local-subtitle-factory) with Python, OpenAI Whisper, Libretranslate, Docker
 - 💞️ I’m looking to collaborate on whatever
 - 📫 n@gma99.com
 
