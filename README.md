@@ -19,6 +19,7 @@ Sometimes I just map another MIDI button via WebSockets because clicking a mouse
 * **🎹 OBS WebSocket & MIDI Routers:** Python scripts mapping hardware controllers to stream scenes and audio feeds on the fly.
 * **📚 MediaWiki Music Indexing:** Custom infobox templates and Python scripts for auto-cataloging releases and studio archives.
 * **🐧 Linux Audio Pipeline Scripts:** Carla plugins, Kdenlive batch renderers, and low-latency PipeWire setups on Ubuntu.
+* **🦾 ARM Linux Experiments:** Installing ARM Linux on things that were **absolutely** not designed to run ARM Linux.
 
 ### 🧰 Things I Like Breaking
 
