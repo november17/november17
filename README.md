@@ -14,6 +14,7 @@ Sometimes I just map another MIDI button via WebSockets because clicking a mouse
 
 ### 🛠️ Currently Building
 
+* **🌐 Network Topology & Configuration**: Open-source Linux tools for visual topology design ([Nettopology MVP](https://github.com/november17/nettopology-mvp)), VLANs, routing, bridges, IP addressing, and firewall planning.
 * **🎬 Local Video & Audio Transcription:** Native Linux toolchains for automated processing.
 * **🎤 [Lyrics & Subtitle Factory](https://github.com/november17/local-subtitle-factory):** Processing multilingual translations, regional slang, and native dialects into clean `.srt` files.
 * **🎹 OBS WebSocket & MIDI Routers:** Python scripts mapping hardware controllers to stream scenes and audio feeds on the fly.
