@@ -21,7 +21,9 @@ Sometimes I just map another MIDI button via WebSockets because clicking a mouse
 * **📚 MediaWiki Music Indexing:** Custom infobox templates and Python scripts for auto-cataloging releases and studio archives.
 * **🐧 Linux Audio Pipeline Scripts:** [Carla plugins](https://github.com/november17/carla_configs), Kdenlive batch renderers, and low-latency [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire) setups on Ubuntu.
 * **🦾 ARM Linux Experiments:** Installing ARM Linux on things that were **absolutely** not designed to run ARM Linux.
-
+* **Custom Camera Configuration Software**: User friendly GUIs for outdated IP Cameras (the kind they call security risks because they're so outdated) #YOLO
+* **AI Prompting Wizardry**: Custom configuration files and knowledge bases for accurate and hyperlocal generative AI.
+  
 ### 🧰 Things I Like Breaking
 
 `Python` · `Ubuntu Linux` · `PipeWire` · `Carla` · `OBS Studio (WebSockets)` · `Kdenlive` · `MediaWiki` · `PyQt5` · `FFmpeg` · `Whisper` · `LibreTranslate`
